@@ -19,7 +19,7 @@ public class CanaraBank {
 		Alert al=site.switchTo().alert();
 		al.accept();
 		site.close();
-		
+		System.out.println("ashok");
 	}
 
 }
