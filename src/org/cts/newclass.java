@@ -27,7 +27,7 @@ public class newclass {
 		jk.executeScript("arguments[0], setAttribute ('value', 'Jai123@gmail.com', Username)");
 		
 		jk.executeScript("arguments[0], setAttribute ('value', '123456', Userpass)");
-				
+			System.out.println("1");	
 	}
 
 }
